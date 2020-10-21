@@ -1,0 +1,4 @@
+triggers.c:10:6:rollerReset	0	static
+triggers.c:42:6:rpmReset	0	static
+triggers.c:75:6:TIM2_IRQHandler	8	static
+triggers.c:103:6:TIM5_IRQHandler	8	static

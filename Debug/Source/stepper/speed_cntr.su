@@ -1,0 +1,4 @@
+speed_cntr.c:25:6:speed_cntr_Move	24	static
+speed_cntr.c:122:6:speed_cntr_Init_Timer1	0	static
+speed_cntr.c:142:6:speed_cntr_TIMER1_COMPA_interrupt	12	static
+speed_cntr.c:264:14:min	0	static

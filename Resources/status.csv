@@ -1,0 +1,6 @@
+type,fqn,shape
+unsigned long,status.hub.triggerInterval[4],
+unsigned short,status.hub.loadCell[4],
+unsigned short,status.hub.stepper.position[4],
+unsigned char,status.hub.stepper.state[4],
+unsigned short,status.analog.channel[12],

@@ -1,0 +1,5 @@
+fqn,offset,size,bitpos,bits
+status,0,84
+status.weather,0,12,,
+status.hub,12,48,,
+status.analog,60,24,,

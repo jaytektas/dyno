@@ -1,0 +1,5 @@
+stepper.c:22:6:stepperHome	0	static
+stepper.c:45:6:stepperAbs	0	static
+stepper.c:49:6:stepperRel	24	static
+stepper.c:128:6:stepperDelay	12	static
+stepper.c:28:6:TIM5_IRQHandler	8	static

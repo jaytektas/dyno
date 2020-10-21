@@ -1,0 +1,5 @@
+precompile
+${ProjDirPath}/Scripts/csv2c.py ${ProjDirPath}/Resources/status.csv -t ${ProjDirPath}/Include/autogen.status.h
+
+post compile
+gdb --quiet ${ProjDirPath}/Debug/dyno.elf -x ${ProjDirPath}/Scripts/offsets.py -ex 'offsets-of config ${ProjDirPath}/Resources/autogen.config.offsets.csv' -ex 'offsets-of status ${ProjDirPath}/Resources/autogen.status.offsets.csv'

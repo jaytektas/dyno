@@ -1,0 +1,2 @@
+hx711.c:8:6:TIM8_CC_IRQHandler	0	static
+hx711.c:12:6:EXTI9_5_IRQHandler	0	static

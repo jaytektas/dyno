@@ -1,0 +1,5 @@
+bme280_support.c:500:6:BME280_delay_msek	8	static
+bme280_support.c:359:4:BME280_I2C_bus_write	48	static
+bme280_support.c:389:4:BME280_I2C_bus_read	72	static
+bme280_support.c:296:4:I2C_routine	0	static
+bme280_support.c:132:5:bme280_data_readout_template	104	static

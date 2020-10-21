@@ -1,0 +1,5 @@
+hub.c:26:6:hubTimeout	8	static
+hub.c:10:6:hubWatchDog	8	static
+hub.c:38:6:hubUpdate	4	static
+hub.c:52:6:TIM1_UP_TIM10_IRQHandler	0	static
+hub.c:59:6:TIM1_CC_IRQHandler	8	static

@@ -1,0 +1,4 @@
+TIM1 - input capture of hub / roller pulses
+TIM3 - PWM outputs to control pwm brakes
+
+TIM5 - output compare used for timing stepper motor steps

@@ -1,0 +1,5 @@
+freertos.c:193:13:StartDefaultTask	16	static
+freertos.c:115:13:configureTimerForRunTimeStats	0	static
+freertos.c:120:22:getRunTimeCounterValue	0	static
+freertos.c:127:13:vApplicationStackOverflowHook	0	static
+freertos.c:140:6:MX_FREERTOS_Init	8	static

@@ -1,0 +1,6 @@
+hx711.c:8:6:TIM8_CC_IRQHandler	8	static
+hx711.c:73:6:EXTI9_5_IRQHandler	8	static
+hx711.c:94:6:HX711_Init	8	static
+hx711.c:118:5:HX711_Value	32	static
+hx711.c:101:5:HX711_Average_Value	32	static
+hx711.c:159:7:HX711_Tare	40	static
